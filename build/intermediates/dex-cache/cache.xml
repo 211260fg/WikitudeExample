@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Florian\AndroidstudioProjects\WikitudeExamplesFlorian\wikitude-sdk-samples\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Florian\AndroidstudioProjects\WikitudeExamplesFlorian\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_3eee9a663387fc1bf6597fcb8975dd91aac6e48b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florian\AndroidstudioProjects\WikitudeExamplesFlorian\wikitude-sdk-samples\build\intermediates\exploded-aar\wikitudesdk\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="943826ba38df25fea857508300b31bd1f20c9301">
+        <dex dex="C:\Users\Florian\AndroidstudioProjects\WikitudeExamplesFlorian\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-wikitudesdk_e16c2a6eca220201eae4d624a7dfc92a3b767940.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Florian\AndroidstudioProjects\WikitudeExamplesFlorian\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_b195104a35ad64d0554687125559f705a17d92a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florian\AndroidstudioProjects\WikitudeExamplesFlorian\wikitude-sdk-samples\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Florian\AndroidstudioProjects\WikitudeExamplesFlorian\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_8f7e3fba34b029287054265e4092fce71fbc6de1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Florian\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Users\Florian\AndroidstudioProjects\WikitudeExamplesFlorian\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\core-3.2.0_eda7273d25eee4fe9f9d65c44c96009f4185f3aa.jar" />
+    </item>
+
+</items>
